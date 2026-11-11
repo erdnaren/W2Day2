@@ -1,0 +1,87 @@
+
+{
+  "project": {
+    "title": "A Margazhi Morning in Chettinad",
+    "type": "Cinematic Cultural Video",
+    "duration": "20 seconds",
+    "aspect_ratio": "16:9",
+    "resolution": "4K",
+    "frame_rate": "24fps"
+  },
+  "SCALE": {
+    "S": {
+      "subject": "An authentic traditional Chettinad household in Karaikudi, Tamil Nadu. A Tamil woman wearing a traditional Chettinad cotton saree, family members, and a traditional ancestral home with wooden pillars, carved doors, and Athangudi tile flooring."
+    },
+    "C": {
+      "composition": "Begin with a wide establishing shot of a traditional Chettinad house. Slowly move the camera towards the entrance and central courtyard. Show detailed Athangudi tile patterns, wooden pillars, traditional furniture, and the open courtyard. Use natural camera movement and realistic cinematic framing."
+    },
+    "A": {
+      "action": [
+        {
+          "time": "0-5 seconds",
+          "scene": "A peaceful Karaikudi neighbourhood at dawn. Soft morning mist and gentle sunlight illuminate traditional Chettinad houses."
+        },
+        {
+          "time": "5-10 seconds",
+          "scene": "The camera moves into a traditional house, revealing colourful Athangudi tile flooring, wooden pillars, and the open courtyard."
+        },
+        {
+          "time": "10-15 seconds",
+          "scene": "A woman wearing a traditional cotton saree draws a small kolam at the entrance while another family member prepares traditional filter coffee."
+        },
+        {
+          "time": "15-20 seconds",
+          "scene": "A family member walks naturally through the courtyard carrying a coffee tumbler. The camera captures the peaceful atmosphere and everyday rhythm of a Chettinad morning."
+        }
+      ]
+    },
+    "L": {
+      "location": "Karaikudi, Chettinad region, Sivaganga district, Tamil Nadu, India.",
+      "time": "Early morning, approximately 6:00 AM, during the Tamil month of Margazhi (December-January).",
+      "environment": "A traditional Chettinad residential neighbourhood with heritage mansions, open courtyards, Athangudi tiles, lime-plastered walls, carved wooden doors, and authentic regional architectural details.",
+      "weather": "Cool, calm early-morning atmosphere with soft natural daylight."
+    },
+    "E": {
+      "visual_style": "Photorealistic cinematic documentary style.",
+      "lighting": "Soft golden-blue dawn lighting with natural shadows.",
+      "colour_palette": "Earthy brown, terracotta, muted yellow, traditional tile colours, and natural wooden tones.",
+      "camera_style": "Slow cinematic tracking shots, gentle camera movements, realistic depth of field, and natural transitions.",
+      "sound_design": [
+        "Soft early-morning birdsong",
+        "Gentle sounds of everyday village life",
+        "Traditional filter coffee preparation sounds",
+        "Subtle ambient neighbourhood sounds"
+      ],
+      "mood": "Peaceful, nostalgic, authentic, culturally rich, and naturally lived-in."
+    }
+  },
+  "cultural_accuracy": {
+    "architecture": "Use authentic Chettinad architectural characteristics rather than generic South Indian or Thanjavur architecture.",
+    "flooring": "Feature authentic handmade Athangudi tiles with traditional geometric patterns.",
+    "clothing": "Use regionally appropriate traditional Tamil cotton sarees and everyday clothing.",
+    "activities": "Show ordinary household morning routines without exaggerated festival activities.",
+    "authenticity": "Prioritize historical and regional accuracy over decorative visual effects."
+  },
+  "negative_prompt": [
+    "Generic Indian palace architecture",
+    "Thanjavur temple-style buildings",
+    "Unrelated regional costumes",
+    "Excessive jewellery",
+    "Overdecorated festival scenes",
+    "Artificial village settings",
+    "Tourist postcard appearance",
+    "Oversaturated colours",
+    "Unrealistic human movements",
+    "Modern buildings dominating the scene",
+    "Fantasy architectural elements"
+  ],
+  "output": {
+    "format": "MP4",
+    "duration": "20 seconds",
+    "aspect_ratio": "16:9",
+    "resolution": "3840x2160",
+    "frame_rate": "24fps",
+    "quality": "High",
+    "consistency": "Maintain consistent characters, architecture, clothing, lighting, and environment throughout the video."
+  }
+}

@@ -1,0 +1,37 @@
+
+{
+  "SCALE": {
+    "S": {
+      "Subject": "An authentic traditional Chettinad household and its residents, including a woman wearing a traditional Chettinad cotton saree and family members engaged in everyday morning activities."
+    },
+    "C": {
+      "Composition": "A realistic wide-angle view of a traditional Chettinad house, highlighting its central courtyard, intricately patterned Athangudi tile flooring, wooden pillars, spacious verandah, and traditional architectural details. Maintain a natural and balanced composition."
+    },
+    "A": {
+      "Action": "A woman drawing a small kolam at the entrance, another family member preparing the morning coffee, and subtle everyday household activities taking place naturally."
+    },
+    "L": {
+      "Location": "Karaikudi, Chettinad region, Sivaganga district, Tamil Nadu, India. A traditional Chettinad home with Athangudi tiles, a central open courtyard, carved wooden doors, and lime-plastered walls.",
+      "Time": "Early morning during the Tamil month of Margazhi (December-January), approximately 6:00 AM.",
+      "Environment": "Cool early-morning atmosphere with soft natural light and a peaceful traditional neighbourhood."
+    },
+    "E": {
+      "Aesthetic": "Photorealistic documentary photography, authentic Tamil cultural heritage, natural earthy colours, warm architectural textures, soft morning sunlight, realistic human expressions, and subtle traditional details.",
+      "Avoid": [
+        "Generic Indian palace architecture",
+        "Thanjavur-style architectural elements",
+        "Unrelated regional clothing",
+        "Excessive temple decorations",
+        "Overly elaborate festival settings",
+        "Tourist postcard appearance",
+        "Artificial lighting and oversaturated colours"
+      ]
+    }
+  },
+  "Output": {
+    "ImageStyle": "Photorealistic",
+    "AspectRatio": "16:9",
+    "Quality": "High detail",
+    "CulturalAuthenticity": "High"
+  }
+}
